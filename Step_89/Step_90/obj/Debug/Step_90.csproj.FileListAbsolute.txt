@@ -1,0 +1,12 @@
+C:\Users\Gabri\source\repos\Step_90\Step_90\bin\Debug\Step_90.exe.config
+C:\Users\Gabri\source\repos\Step_90\Step_90\bin\Debug\Step_90.exe
+C:\Users\Gabri\source\repos\Step_90\Step_90\bin\Debug\Step_90.pdb
+C:\Users\Gabri\source\repos\Step_90\Step_90\obj\Debug\Step_90.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Step_90\Step_90\obj\Debug\Step_90.exe
+C:\Users\Gabri\source\repos\Step_90\Step_90\obj\Debug\Step_90.pdb
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\bin\Debug\Step_90.exe.config
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\bin\Debug\Step_90.exe
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\bin\Debug\Step_90.pdb
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\obj\Debug\Step_90.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\obj\Debug\Step_90.exe
+C:\Users\Gabri\Desktop\CSharpProjects\Step_90\Step_90\obj\Debug\Step_90.pdb
