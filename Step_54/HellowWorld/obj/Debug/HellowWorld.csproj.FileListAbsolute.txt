@@ -1,0 +1,14 @@
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\Gabri\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\obj\Debug\HellowWorld.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\Gabri\Desktop\CSharpProjects\Step_56\HellowWorld\obj\Debug\HellowWorld.pdb
