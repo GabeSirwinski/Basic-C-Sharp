@@ -12,3 +12,10 @@ C:\Users\Gabri\Desktop\CSharpProjects\Step_72\ConsoleApp2\obj\Debug\ConsoleApp2.
 C:\Users\Gabri\Desktop\CSharpProjects\Step_72\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\Gabri\Desktop\CSharpProjects\Step_72\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Gabri\Desktop\CSharpProjects\Step_72\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Step_71\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
