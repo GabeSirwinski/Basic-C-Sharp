@@ -110,31 +110,38 @@ namespace Iteration
                 }
             }
 
-            List<string> fruits2 = new List<string>() { "Apples", "Apples", "Apples", "Pears", "Pears", "Strawberries", "Apples", "Peaches", "Bananas", "Watermelon" };
+            // Part eleven
 
-            int counter4 = 0;
+            List<string> animals = new List<string>() { "Cat", "Dog", "Bear", "Dog", "Animal", "Kitty", "Cat", "Frog", "Dog", "Animal" };
 
-            foreach (string fruit in fruits2)
+            bool isValid = true;
+            int counter3 = 0;
+
+            foreach (string a in animals)
             {
-                for (int i = 0; i < fruits2.Count; i++)
+                for (int i = counter3; i >= 0; i--)
                 {
-                    if (fruits2[i] == fruit)
+                    if (counter3 == animals.IndexOf(a))
                     {
-                        counter4 += 1;
+                        isValid = true;
+                        continue;
                     }
+                    else
+                    {
+                        isValid = false;
+                    }                  
                 }
-                if (counter4 > 1)
+                if (isValid)
                 {
-                    Console.WriteLine(fruit + " appears more than once in the list");
+                    Console.WriteLine(a);
                 }
                 else
                 {
-                    Console.WriteLine(fruit);
+                    Console.WriteLine(a + " has occurred before");
                 }
-                counter4 = 0;
+                counter3 += 1;
             }
             Console.ReadLine();
-
         }  
     }
 }
