@@ -1,0 +1,7 @@
+C:\Users\Gabri\source\repos\Methods3\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\Gabri\source\repos\Methods3\Methods3\bin\Debug\Methods3.exe
+C:\Users\Gabri\source\repos\Methods3\Methods3\bin\Debug\Methods3.pdb
+C:\Users\Gabri\source\repos\Methods3\Methods3\obj\Debug\Methods3.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Methods3\Methods3\obj\Debug\Methods3.exe
+C:\Users\Gabri\source\repos\Methods3\Methods3\obj\Debug\Methods3.pdb
