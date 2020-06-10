@@ -12,13 +12,10 @@ namespace Methods1
         {
             Numbers nums = new Numbers();
             Console.WriteLine("Please enter a number: ");
-            nums.NumOne = Convert.ToInt32(Console.ReadLine());
-            nums = Numbers.Multiply(nums);
-            Console.WriteLine("Times 5: " + nums.NumOne);
-            nums = Numbers.Add(nums);
-            Console.WriteLine("Plus 5: " + nums.NumOne);
-            nums = Numbers.Subtract(nums);
-            Console.WriteLine("Minus 15: " + nums.NumOne);
+            int selectedNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(selectedNum + " times 5 = " + Numbers.Multiply(selectedNum));
+            Console.WriteLine(selectedNum + " plus 5 = " + Numbers.Add(selectedNum));
+            Console.WriteLine(selectedNum + " minus 15 = " + Numbers.Subtract(selectedNum));
             Console.ReadLine();
         }
         

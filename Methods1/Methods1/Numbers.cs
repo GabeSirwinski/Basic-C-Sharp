@@ -10,20 +10,20 @@ namespace Methods1
     public class Numbers
     {
         public int NumOne { get; set; }
-        public static Numbers Multiply(Numbers nums)
+        public static int Multiply(int num)
         {
-            nums.NumOne = nums.NumOne * 5;
-            return nums;
+            num = num * 5;
+            return num;
         }
-        public static Numbers Add(Numbers nums)
+        public static int Add(int num)
         {
-            nums.NumOne = nums.NumOne + 5;
-            return nums;
+            num = num + 5;
+            return num;
         }
-        public static Numbers Subtract(Numbers nums)
+        public static int Subtract(int num)
         {
-            nums.NumOne = nums.NumOne - 15;
-            return nums;
+            num = num - 15;
+            return num;
         }
     }
 

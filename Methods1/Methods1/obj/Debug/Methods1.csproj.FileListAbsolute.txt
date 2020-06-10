@@ -5,3 +5,10 @@ C:\Users\Gabri\source\repos\Methods1\Methods1\bin\Debug\Methods1.exe
 C:\Users\Gabri\source\repos\Methods1\Methods1\bin\Debug\Methods1.pdb
 C:\Users\Gabri\source\repos\Methods1\Methods1\obj\Debug\Methods1.exe
 C:\Users\Gabri\source\repos\Methods1\Methods1\obj\Debug\Methods1.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\bin\Debug\Methods1.exe.config
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\bin\Debug\Methods1.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\bin\Debug\Methods1.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\obj\Debug\Methods1.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\obj\Debug\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\obj\Debug\Methods1.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Methods1\Methods1\obj\Debug\Methods1.pdb
