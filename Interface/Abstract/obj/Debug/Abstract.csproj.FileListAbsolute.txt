@@ -1,0 +1,14 @@
+C:\Users\Gabri\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Gabri\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\Gabri\source\repos\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Gabri\source\repos\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\Gabri\source\repos\Abstract\Abstract\obj\Debug\Abstract.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\bin\Debug\Abstract.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\obj\Debug\Abstract.exe
+C:\Users\Gabri\Desktop\Basic-C-Sharp\Interface\Abstract\obj\Debug\Abstract.pdb
