@@ -1,0 +1,7 @@
+C:\Users\Gabri\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe.config
+C:\Users\Gabri\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe
+C:\Users\Gabri\source\repos\Overloading\Overloading\bin\Debug\Overloading.pdb
+C:\Users\Gabri\source\repos\Overloading\Overloading\obj\Debug\Overloading.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Overloading\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Overloading\Overloading\obj\Debug\Overloading.exe
+C:\Users\Gabri\source\repos\Overloading\Overloading\obj\Debug\Overloading.pdb
