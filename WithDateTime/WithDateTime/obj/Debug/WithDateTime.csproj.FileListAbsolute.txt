@@ -1,0 +1,7 @@
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\bin\Debug\WithDateTime.exe.config
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\bin\Debug\WithDateTime.exe
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\bin\Debug\WithDateTime.pdb
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\obj\Debug\WithDateTime.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\obj\Debug\WithDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\obj\Debug\WithDateTime.exe
+C:\Users\Gabri\source\repos\WithDateTime\WithDateTime\obj\Debug\WithDateTime.pdb
